@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sauravbharti021
-- 👀 I’m interested in software developing and competitive programming.
+- 👀 I’m interested in web developing and competitive programming.
 - 🌱 I’m currently undergraduating in B.tech in Computer Science Engineering(junior).
-- 💞️ I’m looking to collaborate on several projects that i'll be updating here in sometime.
+- 💞️ I’m looking to collaborate on several projects that I'll be updating here in sometime.
 - 📫 Reach me at- sauravbhartibgs37@gmail.com
 
 <!---
